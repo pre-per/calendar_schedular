@@ -8,5 +8,4 @@ class HomeScreen extends StatelessWidget {
       body: Text("Hello World"),
     );
   }
-  
 }
